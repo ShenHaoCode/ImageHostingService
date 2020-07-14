@@ -1,2 +1,2 @@
 # ImageHostingService
-图片存储服务
+图片托管服务
